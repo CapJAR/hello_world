@@ -1,2 +1,2 @@
 # hello_world
-just another repo
+just another Network Security blog
